@@ -37,7 +37,7 @@
     "lodash": "^4.17.15",
     "lodash-es": "^4.17.15",
     "mime": "^2.4.4",
-    "mongoose": "^4.7.8",
+    "mongoose": "^4.13.21",
     "no-case": "^2.3.2",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
